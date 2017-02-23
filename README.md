@@ -6,6 +6,6 @@ Categorize:
 * Others
 
 ---
-[Pratice with MARKDOWN](https://en.wikipedia.org/wiki/MarkDown)
+[Practice with MARKDOWN](https://en.wikipedia.org/wiki/MarkDown)
 
 
