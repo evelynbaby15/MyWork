@@ -16,7 +16,7 @@ import java.util.zip.ZipInputStream;
  * Filter files by name or folder from jar archive.
  *
  */
-public final class JarFileRetriever3 {
+public final class JarFileRetriever {
 
 	protected class FilterRule {
 		private static final String FORMAT_FILE_NAME_REX = "(.+?)%s$";
