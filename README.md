@@ -1,5 +1,5 @@
-# Simple demo
-擷取片段的 JAVA code.
+# Overview
+This is just a sample of my daily work.
 
 ## JarFileRetriever
 從 jar 將特定需要的檔案及目錄整個取出
